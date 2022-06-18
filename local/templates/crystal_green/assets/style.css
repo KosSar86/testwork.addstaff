@@ -1,0 +1,93 @@
+header {
+	background: #FF8C00;
+	padding: 10px;
+	padding-left: 10%;
+	font-size: 150%;
+	font-weight: bold;
+	color: white;
+	text-shadow: black 2px 2px 2px;
+}
+body {
+	max-width: 500px;
+	min-height: 300px;
+}
+#worker {
+	min-height: 250px;
+	height: max-content;
+	border: 4px double #FF8C00;
+	border-radius: 10px;	
+}
+.img{
+	border-left: 4px double #FF8C00;
+	border-bottom: 4px double #FF8C00;	
+	float: right;
+	height: 200px;
+    width: 166px;
+	overflow: hidden;
+}
+
+#face_img{
+	height: 100%;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+#worker_name {
+	font-size: 120%;
+	font-weight: bold;
+	padding: 10px;
+	padding-left: 10%;
+	display: inline-block;
+}
+table {
+	padding-left: 10%;
+}
+table td:first-child {
+	font-weight: bold;
+	text-align: right;
+}
+#main_button{
+	margin: 5px;
+	border: 4px ridge #00FF00;
+	border-radius: 10px;
+	width: max-content;
+}
+.navigation_button{
+	background: #ADFF2F;
+	border: 4px ridge #00FF00;
+	border-radius: 10px;
+	width: max-content;
+	margin: 5px;
+	padding: 16px 27px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 90%;
+	color: black;
+}
+a {
+	text-decoration: none;
+}
+.navigation_button:hover {
+	background: #d3ed8a;
+}
+
+#message_IBempty {
+	font-weight: bold;
+	font-size: 150%;
+	color: red;
+	margin: 5px;
+}
+
+#main_button_message {
+	font-weight: bold;
+	font-size: 120%;
+	color: red;
+	margin: 5px;
+}
+
+ol {
+	font-weight: bold;
+	font-size: 120%;
+	color: black;
+}

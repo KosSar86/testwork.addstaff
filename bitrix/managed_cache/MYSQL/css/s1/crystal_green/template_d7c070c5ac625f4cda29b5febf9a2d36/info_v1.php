@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/crystal_green/assets/style.css" => "16554341331494",]; ?>

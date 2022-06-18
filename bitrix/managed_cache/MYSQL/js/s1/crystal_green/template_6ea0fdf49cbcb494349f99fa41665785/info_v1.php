@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/crystal_green/js/script.js" => "16553912561660",]; ?>

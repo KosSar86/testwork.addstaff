@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/crystal_green/assets/style.css" => "16554023691496","/local/templates/crystal_green/template_styles.css" => "16542642066916",]; ?>
